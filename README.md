@@ -1,7 +1,7 @@
 # ODFX Presets Manager for Houdini Indie
 Extension node for OD Tools in Houdini for applying parameter values from JSON files
 ### Disclaimer: This repository is a user initiative and is not directly related to the [OD Tools](https://origamidigital.com/cart/) or its authors.
-![Screenshot](Screenshot.png))
+![Screenshot](Screenshot.png)
 This node is an extension for the paid third-party plugin for Houdini called OD Tools and requires its Python modules to work:
 You can check the tools at the https://origamidigital.com/cart/:
 
@@ -36,7 +36,14 @@ Toggle "Auto Apply" to force the preset to be loaded when selecting the "Presets
 
 The "destination node" can be a node of any context.
 
-Parameters:
+The node based on the OD Tools Python code shared in discord by [Olive Hotz](https://discord.com/channels/279443049069674496/625410894200832061/1244293453026693120):
+
+```Python
+from OD import shelftools
+shelftools.nodeParmsFromJson([node], path_to_json_file)
+```
+
+## Parameters description:
 
 Auto Apply:
 
@@ -57,5 +64,4 @@ Presets Folder:
 Open Folder:
 
     Open the specified presets folder in the system file manager.
-
 
