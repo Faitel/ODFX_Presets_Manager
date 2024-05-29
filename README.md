@@ -36,7 +36,7 @@ Toggle "Auto Apply" to force the preset to be loaded when selecting the "Presets
 
 The "destination node" can be a node of any context.
 
-The node based on the OD Tools Python code shared in discord by [Olive Hotz](https://discord.com/channels/279443049069674496/625410894200832061/1244293453026693120):
+The node based on the OD Tools Python code shared in discord by [Oliver Hotz](https://discord.com/channels/279443049069674496/625410894200832061/1244293453026693120):
 
 ```Python
 from OD import shelftools
