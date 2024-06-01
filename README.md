@@ -68,6 +68,7 @@ The "Open Select Parameters on Cursor" parameter controls the positioning of the
 
 An "Edit" button allows you to open the selected JSON preset file in the default system editor for quick modifications.
 
+=== Reference === 
 
 The node based on the OD Tools Python code shared in discord by [Oliver Hotz](https://discord.com/channels/279443049069674496/625410894200832061/1244293453026693120):
 
