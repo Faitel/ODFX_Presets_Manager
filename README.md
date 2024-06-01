@@ -56,7 +56,7 @@ The "destination node" can be a node of any context.
 
 ![gif7](https://github.com/Faitel/ODFX_Presets_Manager/assets/10779163/ae932697-ec2a-40ec-998c-306b9ee46fbc)
 
-=== Update 1.1 === 
+### Update 1.1
 
 An "Apply All Presets" button allows you to apply all presets to their respective destination nodes with a single click. This is particularly useful for quickly setting up multiple nodes with predefined configurations.
 
@@ -68,7 +68,7 @@ The "Open Select Parameters on Cursor" parameter controls the positioning of the
 
 An "Edit" button allows you to open the selected JSON preset file in the default system editor for quick modifications.
 
-=== Reference === 
+### Reference
 
 The node based on the OD Tools Python code shared in discord by [Oliver Hotz](https://discord.com/channels/279443049069674496/625410894200832061/1244293453026693120):
 
