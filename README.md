@@ -58,15 +58,21 @@ The "destination node" can be a node of any context.
 
 ### Update 1.1
 
+![GIF3](https://github.com/Faitel/ODFX_Presets_Manager/assets/10779163/f9195e8c-abd2-4082-ac2b-5f0da221797e)
+
 An "Apply All Presets" button allows you to apply all presets to their respective destination nodes with a single click. This is particularly useful for quickly setting up multiple nodes with predefined configurations.
 
 A "Parameters Filter" parameter allows filtering of parameters to be imported from the JSON file. If this parameter is not empty, only the listed parameters will be applied to the destination node. 
 
 A "Select Parameters" dialog shows a list of parameters available in the JSON file. You can easily select which parameters to include. The dialog pre-selects items already included in the "Parameters Filter."
 
+![GIF2](https://github.com/Faitel/ODFX_Presets_Manager/assets/10779163/e512de3e-0a87-4691-b4d7-06d0a4f51a87)
+
 The "Open Select Parameters on Cursor" parameter controls the positioning of the "Select Parameters" dialog. When enabled, the dialog appears near the cursor position. Otherwise, it appears centered on the screen.
 
 An "Edit" button allows you to open the selected JSON preset file in the default system editor for quick modifications.
+
+![GIF1](https://github.com/Faitel/ODFX_Presets_Manager/assets/10779163/d93f9325-6dcc-4caf-9463-c2d4bff28448)
 
 ### Reference
 
