@@ -74,6 +74,14 @@ An "Edit" button allows you to open the selected JSON preset file in the default
 
 ![GIF1](https://github.com/Faitel/ODFX_Presets_Manager/assets/10779163/d93f9325-6dcc-4caf-9463-c2d4bff28448)
 
+### Update 1.2
+
+Fixed bug with the Select parameters panel and added a scroll bar for previewing selected parameters.
+
+Parameters Filter now works similarly to Houdini's native filtering fields; it uses space " " for separation instead of comma "," sign, and you can use * and ^ for filtering.
+
+Added "Enable Instance" toggle to include or exclude preset from loading by the Apply All Parameters button.
+
 ### Reference
 
 The node based on the OD Tools Python code shared in discord by [Oliver Hotz](https://discord.com/channels/279443049069674496/625410894200832061/1244293453026693120):
