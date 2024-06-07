@@ -27,6 +27,8 @@ After that, you can restore parameters from the json file:
 
 One helpful feature of this tool is its ability to load parameters matched by name, even if the destination and source nodes are different; that means you can easily apply parameter values from one node to another, simplifying your workflow and saving time.
 
+### Release 1.0
+
 The node streamlines the process of importing parameters from the json file. 
 
 So, you only need to set the path in the "Preset Folder" parameter, and the "Preset List" will be auto-populated by json files located in the folder.
