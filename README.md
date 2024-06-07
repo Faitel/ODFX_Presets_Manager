@@ -1,7 +1,9 @@
 # ODFX Presets Manager for Houdini Indie
 Extension node for OD Tools in Houdini for applying parameter values from JSON files
 ### Disclaimer: This repository is a user initiative and is not directly related to the [OD Tools](https://origamidigital.com/cart/) or its author.
-![Screenshot](Screenshot.png)
+
+![Screenshot 2024-06-07 110401](https://github.com/Faitel/ODFX_Presets_Manager/assets/10779163/53fd65c4-007b-44f6-b637-220d2dcf064f)
+
 This node is an extension for the paid third-party plugin for Houdini called OD Tools and requires its Python modules to work:
 You can check the tools at the https://origamidigital.com/cart/:
 
